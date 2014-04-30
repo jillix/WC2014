@@ -1,0 +1,338 @@
+[
+    {
+        "kickoff": "12 June 2014 17:00"
+      , "teams":[
+            "brazil"
+          , "croatia"
+        ]
+    }
+  , {
+        "kickoff": "13 June 2014 13:00"
+      , "teams": [
+            "mexico"
+          , "cameroon"
+        ]
+    }
+  , {
+        "kickoff": "17 June 2014 16:00"
+      , "teams": [
+            "brazil"
+          , "mexico"
+        ]
+    }
+  , {
+        "kickoff": "18 June 2014 19:00"
+      , "teams": [
+            "cameroon"
+          , "croatia"
+        ]
+    }
+  , {
+        "kickoff": "23 June 2014 17:00"
+      , "teams": [
+            "cameroon"
+          , "brazil"
+        ]
+    }
+  , {
+        "kickoff": "23 June 2014 17:00"
+      , "teams": [
+            "croatia"
+          , "mexico"
+        ]
+    }
+  , {
+        "kickoff": "13 June 2014 16:00"
+      , "teams": [
+            "spain"
+          , "netherlands"
+        ]
+    }
+  , {
+        "kickoff": "13 June 2014 19:00"
+      , "teams": [
+            "chile"
+          , "australia"
+        ]
+    }
+  , {
+        "kickoff": "18 June 2014 13:00"
+      , "teams": [
+            "australia"
+          , "netherlands"
+        ]
+    }
+  , {
+        "kickoff": "18 June 2014 16:00"
+      , "teams": [
+            "spain"
+          , "chile"
+        ]
+    }
+  , {
+        "kickoff": "23 June 2014 13:00"
+        "teams": [
+            "australia"
+          , "spain"
+        ]
+    }
+  , {
+        "kickoff": "23 June 2014 13:00"
+        "teams": [
+            "netherlands"
+          , "chile"
+        ]
+    }
+  , {
+        "kickoff": "14 June 2014 13:00"
+        "teams": [
+            "colombia"
+          , "greece"
+        ]
+    }
+  , {
+        "kickoff": "14 June 2014 22:00"
+        "teams": [
+            "ivory coast"
+          , "japan"
+        ]
+    }
+  , {
+        "kickoff": "19 June 2014 13:00"
+        "teams": [
+            "colombia"
+          , "ivory coast"
+        ]
+    }
+  , {
+        "kickoff": "19 June 2014 19:00"
+        "teams": [
+            "japan"
+          , "greece"
+        ]
+    }
+  , {
+        "kickoff": "24 June 2014 17:00"
+        "teams": [
+            "japan"
+          , "colombia"
+        ]
+    }
+  , {
+        "kickoff": "24 June 2014 17:00"
+        "teams": [
+            "greece"
+          , "ivory coast"
+        ]
+    }
+  , {
+        "kickoff": "14 June 2014 16:00"
+        "teams": [
+            "uruguay"
+          , "costa rica"
+        ]
+    }
+  , {
+        "kickoff": "14 June 2014 19:00"
+        "teams": [
+            "england"
+          , "italy"
+        ]
+    }
+  , {
+        "kickoff": "19 June 2014 16:00"
+        "teams": [
+            "uruguay"
+          , "england"
+        ]
+    }
+  , {
+        "kickoff": "20 June 2014 13:00"
+        "teams": [
+            "italy"
+          , "costa rica"
+        ]
+    }
+  , {
+        "kickoff": "24 June 2014 13:00"
+        "teams": [
+            "italy"
+          , "uruguay"
+        ]
+    }
+  , {
+        "kickoff": "24 June 2014 13:00"
+        "teams": [
+            "costa rica"
+          , "england"
+        ]
+    }
+  , {
+        "kickoff": "15 June 2014 13:00"
+        "teams": [
+            "switzerland"
+          , "ecuador"
+        ]
+    }
+  , {
+        "kickoff": "15 June 2014 16:00"
+        "teams": [
+            "france"
+          , "honduras"
+        ]
+    }
+  , {
+        "kickoff": "20 June 2014 16:00"
+        "teams": [
+            "switzerland"
+          , "france"
+        ]
+    }
+  , {
+        "kickoff": "20 June 2014 19:00"
+        "teams": [
+            "honduras"
+          , "ecuador"
+        ]
+    }
+  , {
+        "kickoff": "25 June 2014 17:00"
+        "teams": [
+            "honduras"
+          , "switzerland"
+        ]
+    }
+  , {
+        "kickoff": "25 June 2014 17:00"
+        "teams": [
+            "ecuador"
+          , "france"
+        ]
+    }
+  , {
+        "kickoff": "15 June 2014 19:00"
+        "teams": [
+            "argentina"
+          , "bosnia and herzegovina"
+        ]
+    }
+  , {
+        "kickoff": "16 June 2014 16:00"
+        "teams": [
+            "iran"
+          , "nigeria"
+        ]
+    }
+  , {
+        "kickoff": "21 June 2014 13:00"
+        "teams": [
+            "argentina"
+          , "iran"
+        ]
+    }
+  , {
+        "kickoff": "21 June 2014 19:00"
+        "teams": [
+            "nigeria"
+          , "bosnia and herzegovina"
+        ]
+    }
+  , {
+        "kickoff": "25 June 2014 13:00"
+        "teams": [
+            "nigeria"
+          , "argentina"
+        ]
+    }
+  , {
+        "kickoff": "25 June 2014 13:00"
+        "teams": [
+            "bosnia and herzegovina"
+          , "iran"
+        ]
+    }
+  , {
+        "kickoff": "16 June 2014 13:00"
+        "teams": [
+            "germany"
+          , "portugal"
+        ]
+    }
+  , {
+        "kickoff": "16 June 2014 19:00"
+        "teams": [
+            "ghana"
+          , "united states"
+        ]
+    }
+  , {
+        "kickoff": "21 June 2014 16:00"
+        "teams": [
+            "germany"
+          , "ghana"
+        ]
+    }
+  , {
+        "kickoff": "22 June 2014 19:00"
+        "teams": [
+            "united states"
+          , "portugal"
+        ]
+    }
+  , {
+        "kickoff": "26 June 2014 13:00"
+        "teams": [
+            "united states"
+          , "germany"
+        ]
+    }
+  , {
+        "kickoff": "26 June 2014 13:00"
+        "teams": [
+            "portugal"
+          , "ghana"
+        ]
+    }
+  , {
+        "kickoff": "17 June 2014 13:00"
+        "teams": [
+            "belgium"
+          , "algeria"
+        ]
+    }
+  , {
+        "kickoff": "17 June 2014 19:00"
+        "teams": [
+            "russia"
+          , "south korea"
+        ]
+    }
+  , {
+        "kickoff": "22 June 2014 13:00"
+        "teams": [
+            "belgium"
+          , "russia"
+        ]
+    }
+  , {
+        "kickoff": "22 June 2014 16:00"
+        "teams": [
+            "south korea"
+          , "algeria"
+        ]
+    }
+  , {
+        "kickoff": "26 June 2014 17:00"
+        "teams": [
+            "south korea"
+          , "belgium"
+        ]
+    }
+  , {
+        "kickoff": "26 June 2014 17:00"
+        "teams": [
+            "algeria"
+          , "russia"
+        ]
+    }
+];
