@@ -50,7 +50,7 @@ for (var team in teamsWithCoefficients) {
 }
 
 // output country classes
-console.log(JSON.stringify(countryClasses, null, 4));
+// console.log(JSON.stringify(countryClasses, null, 4));
 
 // get matches
 var finalArray = require ("./jsonres/matches.json");
