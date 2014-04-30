@@ -1,3 +1,6 @@
+// dependencies
+var Moment = require ("moment");
+
 // get json values
 var fifaCoefficients = require ("./jsonres/fifa_coefficients")
   , teams = require ("./jsonres/teams")
@@ -57,7 +60,7 @@ for (var i = 0; i < finalArray.length; ++i) {
     var cMatch = finalArray[i];
 
     // kickoff date
-    cMatch.kickoff = moment(cMatch.kickoff, "DD MMM YYYY HH:mm")
+    cMatch.kickoff = Moment(cMatch.kickoff, "DD MMM YYYY HH:mm")
                         .add("hours", 3)
                         .toDate()
                         .getTime()
@@ -82,4 +85,5 @@ for (var i = 0; i < finalArray.length; ++i) {
     cMatch.x = xClass;
 };
 
+// output
 console.log (JSON.stringify (finalArray, null, 4));
