@@ -71,268 +71,268 @@
     }
   , {
         "kickoff": "23 June 2014 13:00"
-        "teams": [
+      , "teams": [
             15
           , 6
         ]
     }
   , {
         "kickoff": "23 June 2014 13:00"
-        "teams": [
+      , "teams": [
             29
           , 13
         ]
     }
   , {
         "kickoff": "14 June 2014 13:00"
-        "teams": [
+      , "teams": [
             2
           , 27
         ]
     }
   , {
         "kickoff": "14 June 2014 22:00"
-        "teams": [
+      , "teams": [
             10
           , 16
         ]
     }
   , {
         "kickoff": "19 June 2014 13:00"
-        "teams": [
+      , "teams": [
             2
           , 10
         ]
     }
   , {
         "kickoff": "19 June 2014 19:00"
-        "teams": [
+      , "teams": [
             16
           , 27
         ]
     }
   , {
         "kickoff": "24 June 2014 17:00"
-        "teams": [
+      , "teams": [
             16
           , 2
         ]
     }
   , {
         "kickoff": "24 June 2014 17:00"
-        "teams": [
+      , "teams": [
             27
           , 10
         ]
     }
   , {
         "kickoff": "14 June 2014 16:00"
-        "teams": [
+      , "teams": [
             3
           , 19
         ]
     }
   , {
         "kickoff": "14 June 2014 19:00"
-        "teams": [
+      , "teams": [
             25
           , 28
         ]
     }
   , {
         "kickoff": "19 June 2014 16:00"
-        "teams": [
+      , "teams": [
             3
           , 25
         ]
     }
   , {
         "kickoff": "20 June 2014 13:00"
-        "teams": [
+      , "teams": [
             28
           , 19
         ]
     }
   , {
         "kickoff": "24 June 2014 13:00"
-        "teams": [
+      , "teams": [
             28
           , 3
         ]
     }
   , {
         "kickoff": "24 June 2014 13:00"
-        "teams": [
+      , "teams": [
             19
           , 25
         ]
     }
   , {
         "kickoff": "15 June 2014 13:00"
-        "teams": [
+      , "teams": [
             7
           , 14
         ]
     }
   , {
         "kickoff": "15 June 2014 16:00"
-        "teams": [
+      , "teams": [
             26
           , 20
         ]
     }
   , {
         "kickoff": "20 June 2014 16:00"
-        "teams": [
+      , "teams": [
             7
           , 26
         ]
     }
   , {
         "kickoff": "20 June 2014 19:00"
-        "teams": [
+      , "teams": [
             20
           , 14
         ]
     }
   , {
         "kickoff": "25 June 2014 17:00"
-        "teams": [
+      , "teams": [
             20
           , 7
         ]
     }
   , {
         "kickoff": "25 June 2014 17:00"
-        "teams": [
+      , "teams": [
             14
           , 26
         ]
     }
   , {
         "kickoff": "15 June 2014 19:00"
-        "teams": [
+      , "teams": [
             1
           , 23
         ]
     }
   , {
         "kickoff": "16 June 2014 16:00"
-        "teams": [
+      , "teams": [
             17
           , 12
         ]
     }
   , {
         "kickoff": "21 June 2014 13:00"
-        "teams": [
+      , "teams": [
             1
           , 17
         ]
     }
   , {
         "kickoff": "21 June 2014 19:00"
-        "teams": [
+      , "teams": [
             12
           , 23
         ]
     }
   , {
         "kickoff": "25 June 2014 13:00"
-        "teams": [
+      , "teams": [
             12
           , 1
         ]
     }
   , {
         "kickoff": "25 June 2014 13:00"
-        "teams": [
+      , "teams": [
             23
           , 17
         ]
     }
   , {
         "kickoff": "16 June 2014 13:00"
-        "teams": [
+      , "teams": [
             5
           , 30
         ]
     }
   , {
         "kickoff": "16 June 2014 19:00"
-        "teams": [
+      , "teams": [
             18
           , 22
         ]
     }
   , {
         "kickoff": "21 June 2014 16:00"
-        "teams": [
+      , "teams": [
             5
           , 18
         ]
     }
   , {
         "kickoff": "22 June 2014 19:00"
-        "teams": [
+      , "teams": [
             22
           , 30
         ]
     }
   , {
         "kickoff": "26 June 2014 13:00"
-        "teams": [
+      , "teams": [
             22
           , 5
         ]
     }
   , {
         "kickoff": "26 June 2014 13:00"
-        "teams": [
+      , "teams": [
             30
           , 18
         ]
     }
   , {
         "kickoff": "17 June 2014 13:00"
-        "teams": [
+      , "teams": [
             4
           , 8
         ]
     }
   , {
         "kickoff": "17 June 2014 19:00"
-        "teams": [
+      , "teams": [
             31
           , 18
         ]
     }
   , {
         "kickoff": "22 June 2014 13:00"
-        "teams": [
+      , "teams": [
             4
           , 31
         ]
     }
   , {
         "kickoff": "22 June 2014 16:00"
-        "teams": [
+      , "teams": [
             18
           , 8
         ]
     }
   , {
         "kickoff": "26 June 2014 17:00"
-        "teams": [
+      , "teams": [
             18
           , 4
         ]
     }
   , {
         "kickoff": "26 June 2014 17:00"
-        "teams": [
+      , "teams": [
             8
           , 31
         ]
     }
-];
+]
