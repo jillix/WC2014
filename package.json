@@ -1,0 +1,30 @@
+{
+  "name": "wc2014",
+  "version": "0.1.0",
+  "description": "World Cup 2014 JSON resources",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "~2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jillix/WC2014.git"
+  },
+  "keywords": [
+    "world",
+    "cup",
+    "2014",
+    "node",
+    "json"
+  ],
+  "author": "jillix <contact@jillix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jillix/WC2014/issues"
+  },
+  "homepage": "https://github.com/jillix/WC2014"
+}
