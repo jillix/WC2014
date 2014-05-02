@@ -12,5 +12,10 @@ To save the output in a file run:
 echo `node index` > matches.json
 ```
 
+## Changelog
+
+### `v0.1.0`
+ - Initial release
+
 ## License
 See the LICENSE file.
