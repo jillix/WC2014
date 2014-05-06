@@ -10,6 +10,7 @@ var gamesByDate = {};
 // Process lines
 for (var i = 0; i < lines.length; ++i) {
     var cLine = lines[i];
+    debugger;
     if (!cLine) {
         console.log ("Skipping empty line");
         continue;
