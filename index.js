@@ -85,5 +85,10 @@ for (var i = 0; i < finalArray.length; ++i) {
     cMatch.x = xClass;
 };
 
+// sort by date
+finalArray.sort(function (a, b) {
+     return (a.kickoff > b.kickoff) ? 1 : -1
+});
+
 // output
 console.log (JSON.stringify (finalArray, null, 4));
