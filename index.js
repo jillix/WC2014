@@ -94,5 +94,11 @@ finalArray.sort(function (a, b) {
      return (a.kickoff > b.kickoff) ? 1 : -1
 });
 
+
+if (process.argv[2] === "uglify") {
+    console.log (JSON.stringify (finalArray));
+    process.exit (0);
+}
+
 // output
 console.log (JSON.stringify (finalArray, null, 4));
