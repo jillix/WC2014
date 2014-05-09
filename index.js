@@ -66,6 +66,10 @@ for (var i = 0; i < finalArray.length; ++i) {
                         .getTime()
                         .toString();
 
+    if (typeof cMatch.teams[0] === "string") {
+        continue;
+    }
+
     // get team names
     var team1 = teams[cMatch.teams[0]]
       , team2 = teams[cMatch.teams[1]]
