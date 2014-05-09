@@ -335,4 +335,116 @@
           , 31
         ]
     }
+  , {
+        "kickoff": "28 June 2014 13:00"
+        "teams": [
+            "1A"
+          , "2B"
+        ]
+    }
+  , {
+        "kickoff": "28 June 2014 17:00"
+        "teams": [
+            "1C"
+          , "2D"
+        ]
+    }
+  , {
+        "kickoff": "29 June 2014 13:00"
+        "teams": [
+            "1B"
+          , "2A"
+        ]
+    }
+  , {
+        "kickoff": "29 June 2014 17:00"
+        "teams": [
+            "1D"
+          , "2C"
+        ]
+    }
+  , {
+        "kickoff": "30 June 2014 13:00"
+        "teams": [
+            "1E"
+          , "2F"
+        ]
+    }
+  , {
+        "kickoff": "30 June 2014 17:00"
+        "teams": [
+            "1G"
+          , "2H"
+        ]
+    }
+  , {
+        "kickoff": "1 July 2014 13:00"
+        "teams": [
+            "1F"
+          , "2E"
+        ]
+    }
+  , {
+        "kickoff": "1 July 2014 17:00"
+        "teams": [
+            "1H"
+          , "2G"
+        ]
+    }
+  , {
+        "kickoff": "4 July 2014 13:00"
+        "teams": [
+            "53W"
+          , "54W"
+        ]
+    }
+  , {
+        "kickoff": "4 July 2014 17:00"
+        "teams": [
+            "49W"
+          , "50W"
+        ]
+    }
+  , {
+        "kickoff": "5 July 2014 13:00"
+        "teams": [
+            "55W"
+          , "56W"
+        ]
+    }
+  , {
+        "kickoff": "5 July 2014 17:00"
+        "teams": [
+            "51W"
+          , "52W"
+        ]
+    }
+  , {
+        "kickoff": "8 July 2014 17:00"
+        "teams": [
+            "57W"
+          , "58W"
+        ]
+    }
+  , {
+        "kickoff": "9 July 2014 17:00"
+        "teams": [
+            "59W"
+          , "60W"
+        ]
+    }
+  , {
+        "kickoff": "12 July 2014 17:00"
+        "teams": [
+            "61L"
+          , "62L"
+        ]
+    }
+  , {
+        "kickoff": "13 July 2014 16:00"
+        "teams": [
+            "61W"
+          , "62W"
+        ]
+    }
 ]
