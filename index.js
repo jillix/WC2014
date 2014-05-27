@@ -61,7 +61,7 @@ for (var i = 0; i < finalArray.length; ++i) {
 
     // kickoff date
     cMatch.kickoff = Moment(cMatch.kickoff, "DD MMM YYYY HH:mm")
-                        .add("hours", 3)
+                        .add("hours", 5)
                         .toDate()
                         .getTime()
                         .toString();
